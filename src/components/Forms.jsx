@@ -1,7 +1,11 @@
 import React from "react";
 
 const Forms = () => {
-  return <div>Forms</div>;
+  return (
+    <div>
+      <input type="text" />
+    </div>
+  );
 };
 
 export default Forms;
